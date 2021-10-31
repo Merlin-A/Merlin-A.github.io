@@ -54,7 +54,7 @@ $(document).ready(function () {
     // TYping TExt SCript
 
        var typed = new Typed(".typing", {
-        strings: ["an Undergrad.", "a Python Developer.", "a Web Developer.", "a Tech Enthusiast."],
+        strings: ["Undergrad", "Developer", "Tech Enthusiast", "Philomath"],
         typeSpeed: 100,
         backSpeed: 50,
         backDelay: 2000,
@@ -62,6 +62,8 @@ $(document).ready(function () {
         loop: true
         
     });
+
+   
 
 
 
