@@ -1168,6 +1168,11 @@ footer span:hover{
     text-decoration: underline;
 }
 
+footer .counter{
+
+    display: none;
+}
+
 /*
 footer img{
     display: inline-block;
