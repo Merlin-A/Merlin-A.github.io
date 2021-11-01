@@ -1529,7 +1529,17 @@ footer img{
 @media(max-width: 380px){
 
 
-
+    
+      
+    .scroll-up-btn{
+        right: 27px;
+        bottom: 15px;
+        height: 45px;
+        width: 45px;
+        font-size: 40px;
+        line-height: 38px;
+    }
+    
     .projects .projects-content  #card1{
      
          background-size:350px 350px;
