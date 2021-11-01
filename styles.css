@@ -1170,7 +1170,7 @@ footer span:hover{
 
 footer .counter{
 
-    display: none;
+    display: inline-block;
 }
 
 /*
