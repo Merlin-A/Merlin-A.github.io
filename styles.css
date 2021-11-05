@@ -483,7 +483,7 @@ section{
 }
 
 .projects .projects-content .card .text{
-    color: transparent;
+    display: none;
     text-decoration: underline;
     font-size: 25px;
     font-weight: 700;
@@ -513,15 +513,16 @@ section{
 
 
 .projects .projects-content .card p{
-    color: transparent;
+    display:none;
 }
 
 .projects .projects-content .card:hover p, .projects .projects-content .card:hover .text{
     color: white;
+    display: block;
 }
 
 .projects .projects-content .card a{
-    color: transparent;
+    display: none;
 }
 
 
@@ -1535,7 +1536,6 @@ footer img{
 
 
     
-      
     .scroll-up-btn{
         right: 23px;
         bottom: 15px;
@@ -1544,7 +1544,7 @@ footer img{
         font-size: 40px;
         line-height: 38px;
     }
-    
+
     .projects .projects-content  #card1{
      
          background-size:350px 350px;
