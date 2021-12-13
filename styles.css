@@ -674,7 +674,7 @@ section{
 --------------------------------------------------------------------------------------*/
 
 
-/* SKILLS SECTION STYLING START */
+/* SECTION STYLING START */
 
 
 .skills .title::before{
@@ -780,6 +780,10 @@ section{
 .skills .skills-content .column-right  #CS i{
     font-size: 17px;
     color: black;
+}
+
+.skills .skills-content .column-right #PHP:hover{
+    transform: scale(1.05);
 }
 
 
