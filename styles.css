@@ -756,6 +756,12 @@ section{
 
 }
 
+.skills .skills-content .column-right  #PHP i{
+    font-size: 17px;
+    color: black;
+    margin-top: 0px;
+}
+
 .skills .skills-content .column-right  #ML i{
     font-size: 17px;
     color: black;
